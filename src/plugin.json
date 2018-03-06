@@ -1,10 +1,10 @@
 {
   "type": "panel",
-  "name": "Pie Chart",
-  "id": "grafana-piechart-panel",
+  "name": "scatter plot",
+  "id": "grafana-scatter plot-panel",
 
   "info": {
-    "description": "Pie chart panel for grafana",
+    "description": "scatter panel for grafana",
     "author": {
       "name": "Grafana Labs",
       "url": "http://grafana.com"
